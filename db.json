@@ -1,0 +1,233 @@
+{
+  "positions": [
+    {
+      "code": "QL_Chucvu",
+      "name": "Chức vụ 1",
+      "desc": "Quản lý chức vụ 1",
+      "status": false,
+      "id": 1
+    },
+    {
+      "code": "QL_Chucvu",
+      "name": "Chức vụ 2",
+      "desc": "Quản lý chức vụ 2",
+      "status": true,
+      "id": 2
+    },
+    {
+      "code": "QL_Chucvu",
+      "name": "Chức vụ 3",
+      "desc": "Quản lý chức vụ 3",
+      "status": true,
+      "id": 3
+    },
+    {
+      "code": "QL_ChucVu",
+      "name": "ChucVu7",
+      "desc": "Quản lý chức vụ 7",
+      "status": true,
+      "id": 5
+    },
+    {
+      "code": "QL_Chucvu",
+      "name": "Chức vụ 10",
+      "desc": "Quản lý chức vụ 10",
+      "status": false,
+      "id": 7
+    }
+  ],
+  "fakeApi": [
+    {
+      "tenGiaiDau": "123123",
+      "diaChi": "123",
+      "nguoiToChuc": "123",
+      "gioiHanNguoiThamGia": 123,
+      "thoiGianBatDau": "",
+      "thoiGianKetThuc": "",
+      "thongTinBaiVietGiaiDau": "",
+      "monTheThaoId": 4,
+      "typeId": 2,
+      "donViId": 2,
+      "phamViId": 3,
+      "id": 5
+    },
+    {
+      "tenGiaiDau": "123123",
+      "diaChi": "123123",
+      "nguoiToChuc": "123123",
+      "gioiHanNguoiThamGia": 123,
+      "thoiGianBatDau": "09-08-2024",
+      "thoiGianKetThuc": "10-08-2024",
+      "thongTinBaiVietGiaiDau": "",
+      "quangDuongToiThieu": 123,
+      "paceToiThieu": 123,
+      "monTheThaoId": 6,
+      "typeId": 2,
+      "donViId": 1,
+      "phamViId": 1,
+      "id": 7
+    },
+    {
+      "tenGiaiDau": "123456",
+      "diaChi": "1235456",
+      "nguoiToChuc": "123456",
+      "gioiHanNguoiThamGia": 123,
+      "thoiGianBatDau": "09-08-2024",
+      "thoiGianKetThuc": "09-08-2024",
+      "thongTinBaiVietGiaiDau": "",
+      "quangDuongToiThieu": 123,
+      "paceToiThieu": 12,
+      "monTheThaoId": 5,
+      "typeId": 1,
+      "donViId": 1,
+      "phamViId": 1,
+      "id": 8
+    },
+    {
+      "tenGiaiDau": "1233333",
+      "diaChi": "4444444",
+      "nguoiToChuc": "123333",
+      "gioiHanNguoiThamGia": 1231,
+      "thoiGianBatDau": "2024-08-09T02:11:11.552Z",
+      "thoiGianKetThuc": "2024-08-16T02:11:13.865Z",
+      "thongTinBaiVietGiaiDau": "",
+      "quangDuongToiThieu": 123,
+      "paceToiThieu": 123,
+      "monTheThaoId": 1,
+      "typeId": 2,
+      "donViId": 2,
+      "phamViId": 2,
+      "id": 9
+    },
+    {
+      "tenGiaiDau": "`1222222",
+      "diaChi": "2222222",
+      "nguoiToChuc": "2222222",
+      "gioiHanNguoiThamGia": 102222,
+      "thoiGianBatDau": "2024-08-09T02:14:43.449Z",
+      "thoiGianKetThuc": "2024-08-23T02:14:43.449Z",
+      "thongTinBaiVietGiaiDau": "",
+      "quangDuongToiThieu": 123,
+      "paceToiThieu": 123,
+      "monTheThaoId": 6,
+      "typeId": 1,
+      "donViId": 1,
+      "phamViId": 2,
+      "id": 10
+    },
+    {
+      "tenGiaiDau": "12344444",
+      "diaChi": "1233213",
+      "nguoiToChuc": "123123213",
+      "gioiHanNguoiThamGia": 123,
+      "thoiGianBatDau": "2024-08-09T02:28:54.013Z",
+      "thoiGianKetThuc": "2024-08-30T02:29:05.931Z",
+      "thongTinBaiVietGiaiDau": "",
+      "quangDuongToiThieu": 123,
+      "paceToiThieu": 123,
+      "monTheThaoId": 6,
+      "typeId": 2,
+      "donViId": 2,
+      "phamViId": 3,
+      "id": 11
+    }
+  ],
+  "monTheThao": [
+    {
+      "id": 5,
+      "name": "đá bóng"
+    },
+    {
+      "id": 6,
+      "name": "chạy bộ"
+    },
+    {
+      "id": 1,
+      "name": "Cầu lông"
+    }
+  ],
+  "loaiGiaiDau": [
+    {
+      "id": 1,
+      "name": "Online"
+    },
+    {
+      "id": 2,
+      "name": "Offline"
+    }
+  ],
+  "donViThamGia": [
+    {
+      "id": 1,
+      "name": "Trung Tâm Sáng Tạo A"
+    },
+    {
+      "id": 2,
+      "name": "Trung Tâm Sáng Tạo C"
+    }
+  ],
+  "phamViToChuc": [
+    {
+      "id": 1,
+      "name": "Toàn bộ tổng công ty VNA"
+    },
+    {
+      "id": 2,
+      "name": "Theo Đơn vị"
+    },
+    {
+      "id": 3,
+      "name": "Chỉ Đơn vị"
+    }
+  ],
+  "users": [
+    {
+      "id": 5,
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "username": "abc",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "username": "dat",
+      "password": "123"
+    }
+  ],
+  "quanlymenu": [
+    {
+      "id": 1,
+      "name": "Thông tin cá nhân",
+      "url": "http://123.123",
+      "menuChaId": 1,
+      "trangThai": "Hoạt động"
+    },
+    {
+      "id": 2,
+      "name": "Thông tin cá nhân",
+      "url": "http://123.123",
+      "menuChaId": 1,
+      "trangThai": "Hoạt động"
+    },
+    {
+      "id": 3,
+      "name": "Thông tin cá nhân",
+      "url": "http://123.123",
+      "menuChaId": 2,
+      "trangThai": "Hoạt động"
+    }
+  ],
+  "menuCha": [
+    {
+      "id": 1,
+      "name": "Sky HR"
+    },
+    {
+      "id": 2,
+      "name": "ABC"
+    }
+  ]
+}
